@@ -11,7 +11,7 @@ function mediavetores(vetvetor) {
 }
 
 
-var vetor = [10,5,5,4,8]
+var vetor = [10,5,5,4,7]
 
 var valorretorno = mediavetores(vetor);
 console.log(valorretorno)
